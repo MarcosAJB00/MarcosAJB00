@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarcosAJB00
-- 👀 I’m interested in the study of exoplanets el mundial compaaa
+- 👀 I’m interested in the study of exoplanets
 - 🌱 I’m currently studen of de licenciature in Astronomy of the Famaf faculty
 - 💞️ I’m looking to collaborate on the cration of codes issues related to astronomy
 - 📫 How to reach me marcos.baracchi@mi.unc.edu.ar
